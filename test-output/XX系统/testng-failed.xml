@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [XX系统]">
+  <test name="YY(failed)">
+    <classes>
+      <class name="com.lemon.api.auto.cases.LoginCase">
+        <methods>
+          <include name="test1"/>
+          <include name="iniData"/>
+        </methods>
+      </class> <!-- com.lemon.api.auto.cases.LoginCase -->
+      <class name="com.lemon.api.auto.cases.RechargeCase">
+        <methods>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- com.lemon.api.auto.cases.RechargeCase -->
+      <class name="com.lemon.api.auto.cases.RegisterCase">
+        <methods>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- com.lemon.api.auto.cases.RegisterCase -->
+    </classes>
+  </test> <!-- YY(failed) -->
+</suite> <!-- Failed suite [XX系统] -->

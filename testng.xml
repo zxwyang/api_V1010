@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!-- 套件 -->
+<suite name="XX系统">
+   <!-- 测试集/模块 -->
+  <test name="YY"> 
+  		<!-- 测试类集合 -->
+	 	<classes>
+	 		<!-- 测试类 -->
+	 		<class name="com.lemon.api.auto.cases.RegisterCase"></class>
+	 		<class name="com.lemon.api.auto.cases.LoginCase"></class>
+	 		<class name="com.lemon.api.auto.cases.RechargeCase"></class>
+		</classes>
+   </test> 
+</suite>
+

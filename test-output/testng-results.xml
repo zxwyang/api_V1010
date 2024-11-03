@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="20" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="XXϵͳ" duration-ms="5239" started-at="2019-06-04T14:52:46Z" finished-at="2019-06-04T14:52:52Z">
+    <groups>
+    </groups>
+    <test name="YY" duration-ms="5239" started-at="2019-06-04T14:52:46Z" finished-at="2019-06-04T14:52:52Z">
+      <class name="com.lemon.api.auto.cases.RegisterCase">
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RegisterCase@591f989e]" name="test1" duration-ms="1409" started-at="2019-06-04T22:52:47Z" data-provider="datas" finished-at="2019-06-04T22:52:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@298a5e20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RegisterCase@591f989e]" name="test1" duration-ms="203" started-at="2019-06-04T22:52:48Z" data-provider="datas" finished-at="2019-06-04T22:52:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@606e4010]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RegisterCase@591f989e]" name="test1" duration-ms="150" started-at="2019-06-04T22:52:48Z" data-provider="datas" finished-at="2019-06-04T22:52:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@33bc72d1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RegisterCase@591f989e]" name="test1" duration-ms="142" started-at="2019-06-04T22:52:48Z" data-provider="datas" finished-at="2019-06-04T22:52:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@14028087]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RegisterCase@591f989e]" name="test1" duration-ms="209" started-at="2019-06-04T22:52:48Z" data-provider="datas" finished-at="2019-06-04T22:52:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@31ea9581]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RegisterCase@591f989e]" name="test1" duration-ms="150" started-at="2019-06-04T22:52:49Z" data-provider="datas" finished-at="2019-06-04T22:52:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@70ed52de]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.lemon.api.auto.cases.RegisterCase -->
+      <class name="com.lemon.api.auto.cases.LoginCase">
+        <test-method status="PASS" signature="iniData(org.testng.ITestContext)[pri:0, instance:com.lemon.api.auto.cases.LoginCase@13b6d03]" name="iniData" is-config="true" duration-ms="1868" started-at="2019-06-04T22:52:45Z" finished-at="2019-06-04T22:52:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@452e19ca]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniData -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.LoginCase@13b6d03]" name="test1" duration-ms="143" started-at="2019-06-04T22:52:49Z" data-provider="datas" finished-at="2019-06-04T22:52:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@6d60fe40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.LoginCase@13b6d03]" name="test1" duration-ms="521" started-at="2019-06-04T22:52:49Z" data-provider="datas" finished-at="2019-06-04T22:52:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@548a24a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.LoginCase@13b6d03]" name="test1" duration-ms="185" started-at="2019-06-04T22:52:49Z" data-provider="datas" finished-at="2019-06-04T22:52:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@4a8355dd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.LoginCase@13b6d03]" name="test1" duration-ms="175" started-at="2019-06-04T22:52:50Z" data-provider="datas" finished-at="2019-06-04T22:52:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@4d1bf319]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.LoginCase@13b6d03]" name="test1" duration-ms="241" started-at="2019-06-04T22:52:50Z" data-provider="datas" finished-at="2019-06-04T22:52:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@710636b0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.lemon.api.auto.cases.LoginCase@13b6d03]" name="finish" is-config="true" duration-ms="285" started-at="2019-06-04T22:52:52Z" finished-at="2019-06-04T22:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.lemon.api.auto.cases.LoginCase -->
+      <class name="com.lemon.api.auto.cases.RechargeCase">
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RechargeCase@2fc14f68]" name="test1" duration-ms="164" started-at="2019-06-04T22:52:50Z" data-provider="datas" finished-at="2019-06-04T22:52:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@5745ca0e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RechargeCase@2fc14f68]" name="test1" duration-ms="170" started-at="2019-06-04T22:52:50Z" data-provider="datas" finished-at="2019-06-04T22:52:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@194fad1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RechargeCase@2fc14f68]" name="test1" duration-ms="188" started-at="2019-06-04T22:52:50Z" data-provider="datas" finished-at="2019-06-04T22:52:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@d554c5f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RechargeCase@2fc14f68]" name="test1" duration-ms="235" started-at="2019-06-04T22:52:51Z" data-provider="datas" finished-at="2019-06-04T22:52:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@4d14b6c2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RechargeCase@2fc14f68]" name="test1" duration-ms="165" started-at="2019-06-04T22:52:51Z" data-provider="datas" finished-at="2019-06-04T22:52:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@16150369]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RechargeCase@2fc14f68]" name="test1" duration-ms="227" started-at="2019-06-04T22:52:51Z" data-provider="datas" finished-at="2019-06-04T22:52:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@1be2019a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RechargeCase@2fc14f68]" name="test1" duration-ms="160" started-at="2019-06-04T22:52:51Z" data-provider="datas" finished-at="2019-06-04T22:52:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@7eecb5b8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RechargeCase@2fc14f68]" name="test1" duration-ms="156" started-at="2019-06-04T22:52:51Z" data-provider="datas" finished-at="2019-06-04T22:52:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@7dfd3c81]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(com.lemon.api.auto.pojo.TestData)[pri:0, instance:com.lemon.api.auto.cases.RechargeCase@2fc14f68]" name="test1" duration-ms="207" started-at="2019-06-04T22:52:52Z" data-provider="datas" finished-at="2019-06-04T22:52:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.lemon.api.auto.pojo.TestData@14dd7b39]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.lemon.api.auto.cases.RechargeCase -->
+    </test> <!-- YY -->
+  </suite> <!-- XXϵͳ -->
+</testng-results>
