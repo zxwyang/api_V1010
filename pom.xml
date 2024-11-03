@@ -40,11 +40,6 @@
 	    <artifactId>log4j</artifactId>
 	    <version>1.2.17</version>
 	</dependency>
-	  <dependency>
-		  <groupId>org.apache.maven.plugins</groupId>
-		  <artifactId>maven-clean-plugin</artifactId>
-		  <version>3.3.1</version>
-	  </dependency>
   </dependencies>
   <build>  
         <plugins>  
@@ -52,8 +47,7 @@
                 <groupId>org.apache.maven.plugins</groupId>  
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>3.3.1</version>
-                <configuration> 
-				    <skip>true</skip>
+                <configuration>
                 	<!-- 设置html代码不转义 -->
                 	<systemPropertyVariables>
 			           <org.uncommons.reportng.escape-output>false</org.uncommons.reportng.escape-output>            
@@ -66,6 +60,11 @@
                     </suiteXmlFiles>  
                 </configuration>
             </plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-clean-plugin</artifactId>
+				<version>3.3.1</version>
+			</plugin>
         </plugins>  
-	</build> 
+	</build>
 </project>
