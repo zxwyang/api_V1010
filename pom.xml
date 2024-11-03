@@ -40,18 +40,18 @@
 	    <artifactId>log4j</artifactId>
 	    <version>1.2.17</version>
 	</dependency>
-	<dependency>
-		<groupId>org.apache.maven.plugins</groupId>
-		<artifactId>maven-clean-plugin</artifactId>
-		<version>3.4.0</version>
-	</dependency>
+	  <dependency>
+		  <groupId>org.apache.maven.plugins</groupId>
+		  <artifactId>maven-clean-plugin</artifactId>
+		  <version>3.3.1</version>
+	  </dependency>
   </dependencies>
   <build>  
         <plugins>  
             <plugin>  
                 <groupId>org.apache.maven.plugins</groupId>  
                 <artifactId>maven-surefire-plugin</artifactId>
-                <version>3.4.0</version>
+                <version>3.3.1</version>
                 <configuration> 
 				    <skip>true</skip>
                 	<!-- 设置html代码不转义 -->
@@ -64,8 +64,8 @@
                     <suiteXmlFiles>  
                         <suiteXmlFile>testng.xml</suiteXmlFile>  
                     </suiteXmlFiles>  
-                </configuration>  
-            </plugin>  
+                </configuration>
+            </plugin>
         </plugins>  
 	</build> 
 </project>
